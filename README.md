@@ -1,5 +1,4 @@
 ## Hi there 👋
 
-Hello. I'm currently interested in Data Analytics. I’m currently learning Data Engineering.
+Hello. I'm interested in Data, Networks, softwares and how they work together. I’m currently learning Data Engineering at Realistic Infotech Group.
 Pronouns: He/Him
-Fun fact: I enjoy eating exotic dishes.
